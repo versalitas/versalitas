@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Marie</h1>
-- 🔭 I’m currently working on [a theatrical chat](www.uti.cat)
 
-- 🌱 I’m currently learning **react**
+Addicted to learning and seeking solutions.
 
-- 💬 Ask me about **design**
+- 🔭 I’m currently working on a theatrical chat (www.uti.cat)
+
+- 🌱 I’m currently learning **react** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
