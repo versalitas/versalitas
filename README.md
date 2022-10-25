@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Marie</h1>
 
-Addicted to learning and seeking solutions.
+Addicted to learning...
+Architect, illustrator, print designer, author and junior backend.
 
-- 🔭 I’m currently working on a theatrical chat (www.uti.cat)
+- 🔭 I’m currently redesigning a theatrical chat (www.uti.cat)
 
 - 🌱 I’m currently learning **react** 
 
