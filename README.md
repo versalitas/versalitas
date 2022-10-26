@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marie</h1>
 
 Addicted to learning...
-Architect, illustrator, print designer, author and junior backend.
+Architect, illustrator, print designer, children's books author, and some sorts of junior backend.
 
 - 🔭 I’m currently redesigning a theatrical chat (www.uti.cat)
 
