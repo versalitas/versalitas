@@ -7,7 +7,7 @@ Architect, illustrator, print designer, author and junior backend.
 
 - 🌱 I’m currently learning **react** 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
