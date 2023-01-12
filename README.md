@@ -3,10 +3,11 @@
 Addicted to learning...
 Architect, illustrator, print designer, children's books author, and junior backend of some sorts...
 
-- 🔭 I’m currently redesigning a theatrical chat (www.uti.cat)
+- 🔭 I’m currently trying to turn "a big ball of mud" into clean code.
 
 - 🌱 I’m currently learning **react** 
-
+- 🌱 I’m currently improving my **css** skills.
+- 🌱 I’m currently practising testing with **jest**.
 
 <p align="left">
 </p>
