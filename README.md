@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Marie</h1>
 
-Addicted to learning...
-Architect, illustrator, print designer, children's books author, and junior backend of some sorts...
+One year ago I started to code and train :ballet_shoes: . I relax from coding with tendues and plies... 
+and I relax from ballet with [] and {} ...
 
-- 🔭 I’m currently trying to turn "a big ball of mud" into clean code.
+- 🔭 I’m currently trying to turn a project coded as "a big ball of mud" into something more structured.
 
 - 🌱 I’m currently learning **react** 
 - 🌱 I’m currently improving my **css** skills.
-- 🌱 I’m currently practising testing with **jest**.
+- 🌱 I’m currently practising testing with **jest**. 
+
 
 <p align="left">
 </p>
