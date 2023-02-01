@@ -3,7 +3,6 @@
 One year ago I started to code and train ballet. I relax from :computer: with tendues and plies... 
 and I relax from ballet with [] and {}. Best combo ever!
 
-- 🔭 I’m currently trying to turn a project coded as "a big ball of mud" into something more structured.
 
 - 🌱 I’m currently learning **react** 
 - 🌱 I’m currently improving my **css** skills.
