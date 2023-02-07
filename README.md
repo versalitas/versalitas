@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marie</h1>
 
-One year ago I started to code and train ballet. I relax from :computer: with tendues and plies... 
+One year ago I took up coding and ballet. I relax from :computer: with tendues and plies... 
 and I relax from ballet with [] and {}. Best combo ever!
 
 
