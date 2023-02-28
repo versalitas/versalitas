@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Marie</h1>
 
-One year ago I took up coding and ballet. I relax from :computer: with tendues and plies... 
-and I relax from ballet with [] and {}. Best combo ever!
+One year ago I took up coding and ballet. 
+I relax from :computer: with tendues and plies... 
+and I relax from ballet with [] and {}. 
+Best combo ever!
 
-
-- 🌱 I’m currently learning **react** 
-- 🌱 I’m currently improving my **css** skills.
-- 🌱 I’m currently practising testing with **jest**. 
+- 🌱 I’m currently improving my **frontend** skills.
+- 🌱 I’m currently learning **GO** .
 
 
 <p align="left">
